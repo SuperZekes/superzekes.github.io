@@ -41,4 +41,4 @@ https://modrinth.com/modpack/sodibanana
 https://modrinth.com/mod/modrinth-logo-mod
 
 ## Goodbye 👋🏻
-I hope to see you around have a nice day!
+I hope to see you around have a super day!
