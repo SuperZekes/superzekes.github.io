@@ -1,6 +1,3 @@
-#
-
-
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=100000&color=BB2118&random=false&width=435&lines=Hello+there+%F0%9F%91%8B%F0%9F%8F%BB)](https://git.io/typing-svg)
 
@@ -45,6 +42,3 @@ https://modrinth.com/mod/modrinth-logo-mod
 
 ## Goodbye 👋🏻
 I hope to see you around have a nice day!
-
-<!-- SVG version -->
-<img alt="markdown" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/built-with/markdown_vector.svg">
