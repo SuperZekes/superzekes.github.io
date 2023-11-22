@@ -32,7 +32,7 @@ https://modrinth.com/user/SuperZekes
 
 ## I live in Trinidad and Tobago
 
-![beach](https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/57/18/5a/view-of-maracas-bay-from.jpg?w=1200&h=-1&s=1)
+![Trinidad and Tobago](https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/57/18/5a/view-of-maracas-bay-from.jpg?w=1200&h=-1&s=1)
 
 ## My Modrinth projects
 
