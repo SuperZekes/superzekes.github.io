@@ -40,5 +40,8 @@ https://modrinth.com/modpack/sodibanana
 
 https://modrinth.com/mod/modrinth-logo-mod
 
+## Want to contact me?
+Add me on discord my user is superzekes
+
 ## Goodbye 👋🏻
 I hope to see you around have a super day!
