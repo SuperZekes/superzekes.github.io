@@ -1,4 +1,3 @@
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=100000&color=BB2118&random=false&width=435&lines=Hello+there+%F0%9F%91%8B%F0%9F%8F%BB)](https://git.io/typing-svg)
 
 I am a small creator that likes making awesome things! Have a wonderful day 👋🏻
@@ -32,7 +31,7 @@ https://modrinth.com/user/SuperZekes
 
 ## I live in Trinidad and Tobago
 
-![Trinidad and Tobago](https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/57/18/5a/view-of-maracas-bay-from.jpg?w=1200&h=-1&s=1)
+![Trinidad and Tobago](https://scontent.fpos4-1.fna.fbcdn.net/v/t39.30808-6/269809230_1585175305159492_2823113529717730607_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=TkWVtThI6soAX9m6G7i&_nc_ht=scontent.fpos4-1.fna&oh=00_AfCwYmWu52caAIfKL-sTEJXHN0HTKOEQxyky_5Itzwg3Xw&oe=65652305)
 
 ## My Modrinth projects
 
