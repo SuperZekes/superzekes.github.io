@@ -31,7 +31,7 @@ https://modrinth.com/user/SuperZekes
 
 ## I live in Trinidad and Tobago
 
-![Trinidad and Tobago](https://scontent.fpos4-1.fna.fbcdn.net/v/t39.30808-6/269809230_1585175305159492_2823113529717730607_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=TkWVtThI6soAX9m6G7i&_nc_ht=scontent.fpos4-1.fna&oh=00_AfCwYmWu52caAIfKL-sTEJXHN0HTKOEQxyky_5Itzwg3Xw&oe=65652305)
+![palmtrees](https://github.com/SuperZekes/superzekes.github.io/blob/main/palmtrees.jpg)
 
 ## My Modrinth projects
 
