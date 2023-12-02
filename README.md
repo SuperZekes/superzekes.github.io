@@ -31,7 +31,7 @@ https://modrinth.com/user/SuperZekes
 
 ## I live in Trinidad and Tobago
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/c7wcxSB" data-context="false" ><a href="//imgur.com/a/c7wcxSB"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+![palmtrees](https://i.imgur.com/Di9uIKi.jpg)
 
 ## My Modrinth projects
 
