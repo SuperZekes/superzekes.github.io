@@ -23,11 +23,11 @@ https://github.com/Fabulously-Optimized/fabulously-optimized
 https://github.com/Creators-of-Create/Create
 
 ## My links
-https://github.com/SuperZekes
+<a href="https://github.com/SuperZekes">GitHub</a>
 
-https://scratch.mit.edu/users/787566/
+<a href="https://scratch.mit.edu/users/787566/">Scratch</a>
 
-https://modrinth.com/user/SuperZekes
+<a href="https://modrinth.com/user/SuperZekes">Modrinth</a>
 
 ## I live in Trinidad and Tobago
 
