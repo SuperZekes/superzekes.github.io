@@ -35,9 +35,11 @@ https://github.com/Creators-of-Create/Create
 
 ## My Modrinth projects
 
-https://modrinth.com/modpack/sodibanana
+<a href="https://modrinth.com/modpack/sodibanana">Sodibanana</a>
 
-https://modrinth.com/mod/modrinth-logo-mod
+<a href="https://modrinth.com/mod/modrinth-logo-mod">Modrinth Logo Mod</a>
+
+<a href="https://modrinth.com/modpack/superzekes-pvp">SuperZekes's PvP Pack</a>
 
 ## Want to contact me?
 Add me on discord my user is superzekes
