@@ -10,7 +10,7 @@ My GitHub stats 📈
 
 ## Future projects that I want to work on
 
-A Minecraft mod that lets you pvp an <a href="https://en.wikipedia.org/wiki/Artificial_intelligence">AI</a> to practice your pvp skills.
+A Minecraft mod that lets you <a href="https://minecraft.wiki/w/Tutorials/Player_versus_Player">pvp</a> an <a href="https://en.wikipedia.org/wiki/Artificial_intelligence">AI</a> to practice your pvp skills.
 
 My own <a href="https://modrinth.com/mod/create">Create</a> modpack with lots of other mods that go well with create.
 
