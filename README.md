@@ -35,7 +35,7 @@ https://github.com/Creators-of-Create/Create
 
 ## My Modrinth projects
 
-<a href="https://modrinth.com/modpack/sodibanana">Sodibanana</a>
+<a href="https://modrinth.com/modpack/sodibanana">SodiBanana</a>
 
 <a href="https://modrinth.com/mod/modrinth-logo-mod">Modrinth Logo Mod</a>
 
